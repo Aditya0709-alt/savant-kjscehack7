@@ -1,0 +1,22 @@
+.submitBtn{
+   position:relative;
+   bottom:3.5rem;
+   left:25rem;
+}
+
+.Upload_Info{
+  position: relative;
+  right:25rem;
+}
+
+.viewerPdf{
+
+  position:relative;
+  left:34rem;
+  bottom:7rem;
+  width:9in;
+  height:9in;
+}
+.pdfViewAdd{
+  overflow-y: scroll;
+}
