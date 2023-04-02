@@ -4,3 +4,16 @@
 
 
 
+# Table of Contents
+
+* [Background](#background)
+* [Problem Statement](#ps)
+* [How we built it](#making)
+* [Challenges we've faced](#challenges)
+* [System Architecture](#system-architecture)
+* [Tech Stack](#Languages)
+* [](#circuit-diagram)
+* [Conclusion](#conclusion)
+
+
+## Background
