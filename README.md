@@ -40,4 +40,5 @@ Postman Public Workspace: https://app.getpostman.com/join-team?invite_code=23e8a
 ![WhatsApp Image 2023-04-02 at 11 57 07 AM (1)](https://user-images.githubusercontent.com/77115883/229336373-f8d0384e-105b-49a1-809c-2d94c2ecc9f8.jpeg)
 
 
+<img width="1207" alt="Screenshot 2023-04-02 at 11 58 48 AM" src="https://user-images.githubusercontent.com/77115883/229336431-04598496-6821-441d-98a1-6c8a9be7f1ae.png">
 
