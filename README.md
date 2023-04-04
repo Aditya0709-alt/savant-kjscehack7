@@ -11,6 +11,7 @@
 * [How we built it](#making)
 * [Challenges we've faced](#challenges)
 * [System Architecture](#system-architecture)
+* [Challenges we ran into](#challenges)
 
 
 
@@ -40,8 +41,13 @@ Postman Public Workspace: https://app.getpostman.com/join-team?invite_code=23e8a
 
 ## Challenges we ran into
 
-- The key challenge in the project was implementing the collaborative workspaces. Creating workspaces and having multiple users join them using codes was a difficult task. 
+- The key challenge in the project was implementing the collaborative workspaces. 
+- Creating workspaces and having multiple users join them using codes was a difficult task. 
 - Integrating various third-party libraries and APIs with the project was a challenging task as e dealt with deprecated versions and compatibility issues. - Implementing features like the in-browser PDF viewer and PDF annotator was quite a daunting task. Also, we had to build a customised model for performing PDF summarisation.
+
+
+## What it looks like
+
 
 ![WhatsApp Image 2023-04-02 at 11 56 27 AM](https://user-images.githubusercontent.com/77115883/229336317-d075c981-54c2-4ca3-b540-62521861ad1a.jpeg)
 
