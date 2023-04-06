@@ -54,7 +54,4 @@ What is SAVANT ? (We took the name, from Savant Syndrome in the series , Good Do
 
 ![WhatsApp Image 2023-04-02 at 11 57 07 AM](https://user-images.githubusercontent.com/77115883/229336355-3e254189-e9be-495b-92e9-f4e30fe186c7.jpeg)
 
-![WhatsApp Image 2023-04-02 at 11 57 07 AM (1)](https://user-images.githubusercontent.com/77115883/229336373-f8d0384e-105b-49a1-809c-2d94c2ecc9f8.jpeg)
-
-
 
